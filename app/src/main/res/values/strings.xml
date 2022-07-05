@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text and Number Saver</string>
+    <string name="field_is_numeric">Field is Numeric</string>
+    <string name="add_field">Add Field</string>
+</resources>
